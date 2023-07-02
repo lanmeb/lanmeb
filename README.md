@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+![image](https://github.com/lanmeb/portfolio/blob/main/assets/tela.png)
 <!--
 
 <picture>
