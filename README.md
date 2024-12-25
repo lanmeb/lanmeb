@@ -6,8 +6,12 @@
 ##
 
 ### Projetos
-
+<!--
 [![MenopausaCalc](https://img.shields.io/badge/MenopausaCalc-FF5722?style=for-the-badge&logo=shields.io.Color=white)](https://lanmeb.github.io/MenopausaCalc/)
+
+[![MenopausaCalc](https://img.shields.io/badge/Menopausa-Calc-ff69b4?style=for-the-badge&logo=shields.io&labelColor=blue&color=ff69b4)](https://lanmeb.github.io/MenopausaCalc/)
+-->
+[![MenopausaCalc](https://img.shields.io/badge/Menopausa-Calc-570437?style=for-the-badge&logo=shields.io.&labelColor=f307b8)](https://lanmeb.github.io/MenopausaCalc/)
 
 
 
