@@ -26,7 +26,13 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanmeb&langs_count=8)
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lanmeb&show_icons=true&theme=great-gatsby&include_all_commits=true"/>-->
-<img src="https://komarev.com/ghpvc/?username=lanmeb&style=plastic&color=0007c4">
+
+<img src="https://komarev.com/ghpvc/?username=lanmeb&style=social&color=FFD700">
+
+
+
+
+
  
 </div>
  
