@@ -15,6 +15,10 @@
 [![MenopausaCalc](https://img.shields.io/badge/Menopausa-Calc-570437?style=for-the-badge&logo=shields.io.&labelColor=f307b8)](https://lanmeb.github.io/MenopausaCalc/)
 &nbsp; &nbsp;
 [![SortNumber](https://img.shields.io/badge/Sort-Number-F06305?style=for-the-badge&logo=shields.io.&labelColor=f04e03)](https://lanmeb.github.io/SortNumber/)
+&nbsp; &nbsp;
+[![SecretNumber](https://img.shields.io/badge/Secret-Number-035757?style=for-the-badge&logo=shields.io.&labelColor=cfa004)](https://lanmeb.github.io/JogoNumeroSecreto/)
+&nbsp; &nbsp;
+[![AmigoSecretoONE](https://img.shields.io/badge/AmigoSecreto-ONE-e9d30c?style=for-the-badge&logo=shields.io.&labelColor=0D5237)](https://lanmeb.github.io/JogoNumeroSecreto/)
 
 
 ### Top Languages
