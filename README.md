@@ -18,7 +18,7 @@
 &nbsp; &nbsp;
 [![SecretNumber](https://img.shields.io/badge/Secret-Number-035757?style=for-the-badge&logo=shields.io.&labelColor=cfa004)](https://lanmeb.github.io/JogoNumeroSecreto/)
 &nbsp; &nbsp;
-[![AmigoSecretoONE](https://img.shields.io/badge/AmigoSecreto-ONE-e9d30c?style=for-the-badge&logo=shields.io.&labelColor=0D5237)](https://lanmeb.github.io/JogoNumeroSecreto/)
+[![AmigoSecretoONE](https://img.shields.io/badge/AmigoSecreto-ONE-e9d30c?style=for-the-badge&logo=shields.io.&labelColor=0D5237)](https://lanmeb.github.io/AmigoSecretoOne/)
 
 
 ### Top Languages
